@@ -1,0 +1,24 @@
+body{
+  background-image: url(/home/macbook/Documents/Udemy/Udemy.html/300x300.jpg);
+  background-size: cover;
+}
+h2, p{
+  color: red;
+  text-align: center;
+  border: 5px solid purple;
+  cursor: pointer;
+}
+p{
+  line-height: 20px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman";
+  color: pink;
+}
+p{
+  color: green;
+}
+li{
+  list-style: none;
+  display: inline-block;
+}
